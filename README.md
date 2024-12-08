@@ -1,5 +1,4 @@
-# Official Implementation for 'TimeCaps: Capturing Time Series Data With
-Capsule Networks'
+# Official Implementation for 'TimeCaps: Capturing Time Series Data With Capsule Networks'
 
 ### [Paper](https://arxiv.org/abs/1911.11800) 
 ---
