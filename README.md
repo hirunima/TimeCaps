@@ -1,4 +1,5 @@
-# Official Implementation for 'Unified Framework for Open-World Compositional Zero-shot Learning'
+# Official Implementation for 'TimeCaps: Capturing Time Series Data With
+Capsule Networks'
 
 ### [Paper](https://arxiv.org/abs/1911.11800) 
 ---
